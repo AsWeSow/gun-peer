@@ -12,7 +12,7 @@
       "value": "false"
     },
     "PEERS": {
-      "description": "https://git.heroku.com/evening-thicket-53280.git", "https://elusive-obfuscation.herokuapp.com/",
+      "description": "https://git.heroku.com/evening-thicket-53280.git", "https://elusive-obfuscation.herokuapp.com/", "https://ancient-depths-76041.herokuapp.com/",
       "required": false
     }
   }
