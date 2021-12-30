@@ -12,7 +12,7 @@
       "value": "false"
     },
     "PEERS": {
-      "description": "Comma-separated list of peer urls to connect to",
+      "description": "https://git.heroku.com/evening-thicket-53280.git", "https://elusive-obfuscation.herokuapp.com/",
       "required": false
     }
   }
